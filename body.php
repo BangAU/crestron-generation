@@ -1,6 +1,6 @@
 <section class="top-page">
   <header id="header">
-    <div class="menu">
+    <!-- <div class="menu">
       <div class="container">
         <nav id="nav">
           <input type="checkbox" id="show-mobile">
@@ -16,11 +16,11 @@
           </ul>
         </nav>
       </div>
-    </div>
+    </div> -->
     <div class="logo-container">
       <div class="container">
-        <a href="https://www.crestron-partners.com.au/" target="_blank"><img src="images/logo-crestron.png" width="177" alt="Crestron Partners"></a>
-        <a href="https://www.crestron-partners.com.au/" target="_blank"><img src="images/generation-logo.svg"  alt="Generation"></a>
+        <a href="https://www.crestron.com/" target="_blank"><img src="images/logo-crestron.png" width="177" alt="Crestron Partners"></a>
+        <a href="https://www.generation-e.com.au/" target="_blank"><img src="images/generation-logo.png"  width="177" alt="Generation"></a>
       </div>
     </div>
   </header>
@@ -45,7 +45,7 @@
           </h1>
           <p>What should a modern workspace feel like? Flexible and inspiring rooms, high quality audio and visual meeting and conferencing technology, human spatial design, and work-life balance all coming together for more wonderful and productive experiences.</p>
           <div class="btn-holder">
-            <a href="#" class="btn">GET IN TOUCH</a>
+          <a href="#work" class="btn btn-anchor">GET IN TOUCH</a>
           </div>
         </div>
       </div>
@@ -62,8 +62,8 @@
           <p>Together, Generation-e and Crestron bring you expertly engineered and supported unified communications and audio-visual solutions that will positively transform your team’s workspace experience. </p>
           <p>Backed by our proven methodology, we deliver a tailored integration of audio visual, digital, networking, and communications technology that lets your team simply and securely meet, collaborate, and share.</p>
           <div class="it-works-logo-content">
-             <a href="https://www.crestron-partners.com.au/" target="_blank"><img src="images/crestron-middle-logo.png" width="177"  alt="Crestron Partners"></a>
-             <a href="https://www.crestron-partners.com.au/" target="_blank"><img src="images/itworks-logo.png"  alt="Ten Four"></a>
+             <a href="https://www.crestron.com/" target="_blank"><img src="images/crestron-middle-logo.png" width="177"  alt="Crestron Partners"></a>
+             <a href="https://www.generation-e.com.au/" target="_blank"><img src="images/itworks-logo.png"  alt="Generation"></a>
           </div>
         </div>
       </div>
@@ -121,7 +121,7 @@
               <img src="images/passion-last.svg">
             </div>
             <h5>Fully certified framework  </h5>
-            <p> Generation-e developed a ‘Modern Meeting Success Framework’ with Deloitte. We’re also the only APAC member of Microsoft Teams’ FastTrack program for modern meeting support and training.
+            <p> Generation-e developed a ‘Modern Meeting Success Framework’ with Deloitte. We’re also the only APAC member of Microsoft Teams FastTrack program for modern meeting support and training.
             </p>
           </div>
       </div>
@@ -133,16 +133,17 @@
     <div class="container">
       <div class="believe-container">
         <div class="believe-left">
-          <h2>Believe in Crestron</h2>
-          <p>For more than 45 years, Crestron has helped businesses like yours with beautifully engineered automation, audio visual and unified communications equipment for modern workplaces.
-          </p> 
-          <p> Crestron technology simply works wonders, producing inspired collaboration you can believe in.</p>
-          <a class="btn">Find out more</a>
+          <div class="content-wrapper">
+            <h2>Believe in Crestron</h2>
+            <p>For more than 45 years, Crestron has helped businesses like yours with beautifully engineered automation, audio visual and unified communications equipment for modern workplaces.
+            </p> 
+            <p> Crestron technology simply works wonders, producing inspired collaboration you can believe in.</p>
+            <a class="btn" target="_blank" href="https://believeincrestron.com">Find out more</a>
+          </div>
         </div>
         <div class="believe-right">
           <div class="video-holder">
-            <iframe src="https://www.youtube.com/embed/amuH0Gs5ZhjhhjY" frameborder="0" style="    width: 663px;
-        height: 404px;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/embed/amuH0Gs5ZhjhhjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
         </div>
       </div>
