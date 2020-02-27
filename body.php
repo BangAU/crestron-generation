@@ -41,7 +41,7 @@
       <div class="container">
         <div class="banner-text">
           <h1>
-          Generation-e and Crestron positively transform modern workspaces.
+          Generation-e and Crestron positively transform modern workspaces
           </h1>
           <p>What should a modern workspace feel like? Flexible and inspiring rooms, high quality audio and visual meeting and conferencing technology, human spatial design, and work-life balance all coming together for more wonderful and productive experiences.</p>
           <div class="btn-holder">
@@ -81,7 +81,7 @@
       <h2>Collaborate with confidence </h2>
       <div class="collaborate-container">
         <div class="collaborate-left">
-          <h3>An amazing workplace for modern productivity.</h3>
+          <h3>An amazing workplace for modern productivity</h3>
         </div>
         <div class="collaborate-right">
           <p>Organisations across Australia are rapidly improving workspace experiences to remain productive, competitive, and attractive to employees.  </p>
@@ -171,7 +171,7 @@
           </div>
           <div class="form-group">
             <div class="col">
-              <input type="text" name="organization" placeholder="Organization">
+              <input type="text" name="organization" placeholder="Organisation">
             </div>
             <div class="col">
               <input type="email" name="email" placeholder="Email" data-rule-required="true" data-msg-required="Please enter your email">
@@ -182,12 +182,12 @@
               <input type="tel" name="phone" placeholder="Phone" data-rule-minlength="10" data-rule-maxlength="10" data-rule-required="true" data-msg-required="Please enter your phone number">
             </div>
             <div class="col">
-              <select class="role" name="role">
+              <!-- <select class="role" name="role">
                 <option selected value="Not specified">Role in Company</option>
                 <option selected value="CEO">CEO</option>
                 <option selected value="CTO">CTO</option>
                 <option selected value="Others">Others</option>
-              </select>
+              </select> -->
               <!-- <input placeholder="Role in Company" type="text" class="role" list="roles" name="role">
               <datalist id="roles">
                 <option value="CEO">
@@ -205,7 +205,7 @@
           </div>
         </form>
         <div class="message-success">
-          <p>Thank you for registering your interest. A member of our team will be in contact with you shortly.</p>
+           <p>Thanks for reaching out to us! A local Crestron expert will be in touch with you shortly.</p>
         </div> <!-- end .message-success --> 
       </div>
 
@@ -215,3 +215,14 @@
     </div>
   </div>
 </section>
+<!-- <div class="container last-msg">
+<p >For our range of solutions, product specifications, T&amp;Cs and full Privacy Policy,&nbsp;head over to <a href="https://www.crestron.com/" >our corporate site </a>.</p>
+</div> -->
+<div class="container">
+  <div class="middle-logo">
+    <div class="left-footer">
+        <a href="https://www.crestron.com/" target="_blank"><img src="images/logo-crestron.png" width="177" alt="Crestron Partners"></a>
+        <a href="https://www.generation-e.com.au/" target="_blank"><img src="images/generation-logo.png" width="177" alt="E-generation"></a>
+    </div>
+  </div>  
+</div>
